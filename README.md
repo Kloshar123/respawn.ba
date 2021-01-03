@@ -1,2 +1,11 @@
-# respawn.ba
-new site for respawn.ba
+# New 2021 Site for RESPAWN.BA
+
+## Author: Cgcooler
+
+## Tools:
+    Angular.js
+    JS
+    HTML
+    CSS
+    PHP
+    node.js
