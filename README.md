@@ -9,3 +9,5 @@
     CSS
     PHP
     node.js
+    django
+    python
